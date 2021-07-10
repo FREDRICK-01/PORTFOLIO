@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+}
+.container {
+    background-color: burlywood;
+}
+.title {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-weight: 800;
+    background-color: chartreuse;
+}
