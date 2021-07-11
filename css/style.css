@@ -22,6 +22,17 @@ ul {
 .container {
     background-color: burlywood;
 }
+.container img {
+    padding: 5%;
+    padding-bottom: 5%;
+    border:2px solid darkgreen;
+    -moz-box-shadow: 10px 10px 5px black;
+    -webkit-box-shadow: 10px 10px 5px black;
+    box-shadow: 10px 8px 5px black;
+    -moz-border-radius:25px;
+    -webkit-border-radius:25px;
+    border-radius:25px;
+}
 .title {
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
