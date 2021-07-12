@@ -1,5 +1,5 @@
 # _{ PERSONAL PORTFOLIO}_
-#### _{INTROBUCTION}_
+#### _{INTRODUCTION}_
 The project is a personal Portfolio of FREDRICK GACHURU MWANGI
 #### By 
 FREDRICK GACHURU MWANGI
